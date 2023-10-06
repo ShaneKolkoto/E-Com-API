@@ -13,7 +13,7 @@ Before you begin, make sure you have the following prerequisites in place:
 
 2. [MySQL](https://www.mysql.com/): The API uses MySQL as the database. Make sure you have a MySQL server up and running. You can download and install MySQL from mysql.com.
 
-3. [Etherail](https://ethereal.email/): Ethereal Email is a service provided by Ethereal, a popular email testing and debugging platform for developers. It offers a sandboxed environment for sending and receiving emails during development and testing phases of an application.
+3. [Ethereal ](https://ethereal.email/): Ethereal Email is a service provided by Ethereal, a popular email testing and debugging platform for developers. It offers a sandboxed environment for sending and receiving emails during development and testing phases of an application.
 
 ## Installation
 Follow these steps to install the API on your local machine:
@@ -115,6 +115,6 @@ For detailed information about the available routes and endpoints, please refer 
 
 For security reasons, please ensure that the API key is included in the request headers for every API call you make.
 
-If you encounter any issues or have questions, please don't hesitate to contact our support team at shanekolkoto@gmail.com.
+If you encounter any issues or have questions, please don't hesitate to contact our support team at <a href="mailto:shanekolkoto@gmail.com">shanekolkoto@gmail.com</a>.
 
 Happy coding!
